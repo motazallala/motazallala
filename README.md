@@ -14,9 +14,9 @@
 
 ## 👨‍💻 About Me
 
-Computer Science graduate and **Software Engineer** based in **Amman, Jordan 🌍**, currently working full-time at **Sedra Pay**. I specialize in **ASP.NET Core**, **microservices architecture**, and **full-stack web development**, with a strong foundation in design patterns like **DDD**, **Repository Pattern**, and **Unit of Work**.
+Computer Science graduate and **Software Engineer** based in **Amman, Jordan 🌍**, currently working full-time at **Devo Yard**. I specialize in **ASP.NET Core**, **microservices architecture**, and **full-stack web development**, with a strong foundation in design patterns like **DDD**, **Repository Pattern**, and **Unit of Work**.
 
-- 💼 Currently a **Software Engineer @ Sedra Pay** (Dec 2024 – Present)
+- 💼 Currently a **Software Engineer @ Devo Yard** (Aug 2025 – Present)
 - 🏆 B.S. Computer Science, GPA: **3.76/4**
 - 🏗️ Building scalable microservices with **RabbitMQ**, **Redis**, **MongoDB**, and **SQL Server**
 - 🧠 Passionate about **Domain-Driven Design** and clean architecture
